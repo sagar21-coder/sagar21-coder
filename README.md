@@ -98,3 +98,10 @@
   <i>"The analytical mind is the primary catalyst for modern innovation."</i><br />
   <strong>Designed with 💜 by Sagar</strong>
 </p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagar21-coder/sagar21-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
