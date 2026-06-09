@@ -7,10 +7,10 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/sagar21-coder" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sagar-ahirrao-76b268310/" />
   </a>
   <a href="mailto:sagar21.coder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sagarahirrao111@gmail.com" />
   </a>
   <a href="https://kaggle.com/sagar21coder" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
@@ -95,13 +95,5 @@
  <img src="https://komarev.com/ghpvc/?username=sagar21-coder&color=7928ca&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 <p align="center">
-  <i>"The analytical mind is the primary catalyst for modern innovation."</i><br />
-  <strong>Designed with 💜 by Sagar</strong>
-</p>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagar21-coder/sagar21-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<i>"Transforming data into decisions, and ideas into innovation."</i><br />
 </p>
