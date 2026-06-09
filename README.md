@@ -79,43 +79,38 @@
   <img src="https://img.shields.io/badge/Jupyter-1E1E24?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
 </p>
 <hr />
-
-  </tr>
-</table>
-<hr />
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/sagar21-coder">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagar21-coder&show_icons=true&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&icon_color=3b82f6&hide_border=true" alt="Sagar's GitHub Stats" height="180px" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar21-coder&show_icons=true&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&icon_color=3b82f6&hide_border=true" alt="Sagar's GitHub Stats" />
   </a>
   <a href="https://github.com/sagar21-coder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar21-coder&layout=compact&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&hide_border=true" alt="Top Languages" height="180px" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar21-coder&layout=compact&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/sagar21-coder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar21-coder&theme=tokyonight&background=0f0f13&ring=a855f7&fire=3b82f6&currStreakLabel=e2e8f0&hide_border=true" alt="Sagar's GitHub Streak" height="180px" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar21-coder&theme=tokyonight&background=0f0f13&ring=a855f7&fire=3b82f6&currStreakLabel=e2e8f0&hide_border=true" alt="Sagar's GitHub Streak" />
   </a>
 </p>
 <hr />
 <p align="center">
-  <img src="https://komarev.com/normal-ase.png?username=sagar21-coder&color=7928ca&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sagar21-coder&color=7928ca&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 <p align="center">
   <i>"The analytical mind is the primary catalyst for modern innovation."</i><br />
   <strong>Designed with 💜 by Sagar</strong>
 </p>
 
-
 <!--
 **sagar21-coder/sagar21-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
