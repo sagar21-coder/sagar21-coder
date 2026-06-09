@@ -81,17 +81,13 @@
 <hr />
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-  <a href="https://github.com/sagar21-coder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar21-coder&show_icons=true&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&icon_color=3b82f6&hide_border=true" alt="Sagar's GitHub Stats" />
-  </a>
-  <a href="https://github.com/sagar21-coder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar21-coder&layout=compact&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar21-coder&show_icons=true&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&icon_color=3b82f6&hide_border=true" alt="Sagar's GitHub Stats" />
 </p>
 <p align="center">
-  <a href="https://github.com/sagar21-coder">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar21-coder&theme=tokyonight&background=0f0f13&ring=a855f7&fire=3b82f6&currStreakLabel=e2e8f0&hide_border=true" alt="Sagar's GitHub Streak" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar21-coder&layout=compact&theme=tokyonight&bg_color=0f0f13&title_color=a855f7&text_color=e2e8f0&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar21-coder&theme=tokyonight&background=0f0f13&ring=a855f7&fire=3b82f6&currStreakLabel=e2e8f0&hide_border=true" alt="Sagar's GitHub Streak" />
 </p>
 <hr />
 <p align="center">
