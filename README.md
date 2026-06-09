@@ -17,9 +17,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sagar21-coder&theme=tokyonight&column=7&no-bg=true&no-frame=true" alt="github profile trophy" />
-  </a>
+ 
 </p>
 <hr />
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
