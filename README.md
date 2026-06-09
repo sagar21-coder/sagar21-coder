@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sagar's Profile Banner" width="100%" />
+  
 </p>
 <h1 align="center">👋 Hi there, I'm Sagar!</h1>
 <p align="center">
