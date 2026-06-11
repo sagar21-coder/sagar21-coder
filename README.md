@@ -103,7 +103,5 @@
 </p>
 
 <p align="center">
-  <i>"Transforming data into decisions, and ideas into innovation."</i><br />
-  <strong>Designed with 💜 by Sagar Ahirrao</strong>
+  <i>"Transforming data into decisions, and ideas into innovation."</i><br /> 
 </p>
-```
